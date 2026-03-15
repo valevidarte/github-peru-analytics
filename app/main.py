@@ -5,8 +5,7 @@ import json
 import streamlit as st
 
 st.set_page_config(
-    page_title="🇵🇪 GitHub Peru Analytics",
-    page_icon="🇵🇪",
+    page_title="GitHub Peru Analytics",
     layout="wide",
     initial_sidebar_state="expanded",
 )
@@ -25,7 +24,7 @@ def data_ready() -> tuple[bool, str]:
     return True, ""
 
 
-st.title("🇵🇪 GitHub Peru Analytics")
+st.title("GitHub Peru Analytics")
 st.caption("Analisis del ecosistema de desarrolladores en Peru con GitHub API, GPT-4 y Streamlit.")
 
 ready, missing_paths = data_ready()
