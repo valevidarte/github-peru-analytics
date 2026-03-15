@@ -1,7 +1,13 @@
 """Repository browser page."""
 
+import sys
+import os
 import pandas as pd
 import streamlit as st
+
+# Ensure repo root is on the path (needed on Streamlit Cloud)
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..')))
+
 from app.components import plot_stars_vs_forks
 
 st.set_page_config(page_title="Repositories", page_icon="📦", layout="wide")

@@ -1,8 +1,14 @@
 """Overview dashboard page."""
 
 import json
+import sys
+import os
 import pandas as pd
 import streamlit as st
+
+# Ensure repo root is on the path (needed on Streamlit Cloud)
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..')))
+
 from app.components import (
     plot_geographic_distribution,
     plot_industry_distribution,
