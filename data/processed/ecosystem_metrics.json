@@ -1,0 +1,161 @@
+{
+  "total_developers": 24,
+  "total_repositories": 1000,
+  "total_stars": 58552,
+  "total_forks": 5939,
+  "avg_repos_per_user": 41.666666666666664,
+  "avg_stars_per_repo": 58.552,
+  "avg_forks_per_repo": 5.939,
+  "active_developer_pct": 62.5,
+  "avg_account_age_days": 3000.4166666666665,
+  "avg_account_age": 3000.4166666666665,
+  "most_popular_languages": {
+    "JavaScript": 158,
+    "Python": 88,
+    "TypeScript": 87,
+    "HTML": 61,
+    "Jupyter Notebook": 49,
+    "C#": 47,
+    "Makefile": 47,
+    "CSS": 45,
+    "Shell": 43,
+    "R": 36
+  },
+  "total_languages": 55,
+  "industry_distribution": {
+    "J": 614,
+    "P": 93,
+    "M": 64,
+    "O": 42,
+    "G": 41,
+    "K": 38,
+    "R": 37,
+    "Q": 20,
+    "A": 15,
+    "I": 8,
+    "C": 5,
+    "E": 5,
+    "N": 5,
+    "H": 5,
+    "B": 3,
+    "L": 2,
+    "T": 1,
+    "S": 1,
+    "D": 1
+  },
+  "industry_names": {
+    "A": "Agriculture, forestry and fishing",
+    "B": "Mining and quarrying",
+    "C": "Manufacturing",
+    "D": "Electricity, gas, steam supply",
+    "E": "Water supply; sewerage",
+    "G": "Wholesale and retail trade",
+    "H": "Transportation and storage",
+    "I": "Accommodation and food services",
+    "J": "Information and communication",
+    "K": "Financial and insurance activities",
+    "L": "Real estate activities",
+    "M": "Professional, scientific activities",
+    "N": "Administrative and support activities",
+    "O": "Public administration and defense",
+    "P": "Education",
+    "Q": "Human health and social work",
+    "R": "Arts, entertainment and recreation",
+    "S": "Other service activities",
+    "T": "Activities of households"
+  },
+  "top_contributors": [
+    {
+      "login": "devaige",
+      "impact_score": 9158
+    },
+    {
+      "login": "mriscoc",
+      "impact_score": 5760
+    },
+    {
+      "login": "dcajasn",
+      "impact_score": 5560
+    },
+    {
+      "login": "joelibaceta",
+      "impact_score": 3174
+    },
+    {
+      "login": "mabelolivera10",
+      "impact_score": 2144
+    },
+    {
+      "login": "Railly",
+      "impact_score": 1836
+    },
+    {
+      "login": "csaybar",
+      "impact_score": 1579
+    },
+    {
+      "login": "emedinaa",
+      "impact_score": 1543
+    },
+    {
+      "login": "apholdings",
+      "impact_score": 1493
+    },
+    {
+      "login": "CodigoEstudiante",
+      "impact_score": 1244
+    }
+  ],
+  "top_repositories": [
+    {
+      "name": "colima",
+      "full_name": "abiosoft/colima",
+      "stargazers_count": 27566
+    },
+    {
+      "name": "orbstack",
+      "full_name": "orbstack/orbstack",
+      "stargazers_count": 8226
+    },
+    {
+      "name": "Riskfolio-Lib",
+      "full_name": "dcajasn/Riskfolio-Lib",
+      "stargazers_count": 3814
+    },
+    {
+      "name": "Ender3V2S1",
+      "full_name": "mriscoc/Ender3V2S1",
+      "stargazers_count": 3064
+    },
+    {
+      "name": "WheelPicker",
+      "full_name": "devaige/WheelPicker",
+      "stargazers_count": 2625
+    },
+    {
+      "name": "DatePicker",
+      "full_name": "devaige/DatePicker",
+      "stargazers_count": 1861
+    },
+    {
+      "name": "video-to-ascii",
+      "full_name": "joelibaceta/video-to-ascii",
+      "stargazers_count": 1817
+    },
+    {
+      "name": "MultiThreadDownloader",
+      "full_name": "devaige/MultiThreadDownloader",
+      "stargazers_count": 1021
+    },
+    {
+      "name": "tinte",
+      "full_name": "Railly/tinte",
+      "stargazers_count": 572
+    },
+    {
+      "name": "kotlin-mvvm",
+      "full_name": "emedinaa/kotlin-mvvm",
+      "stargazers_count": 545
+    }
+  ]
+}
