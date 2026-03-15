@@ -1,10 +1,12 @@
-# 🇵🇪 GitHub Peru Analytics: Developer Ecosystem Dashboard
+# GitHub Peru Analytics: Developer Ecosystem Dashboard
 
 An analytics platform to extract, classify, and visualize the developer ecosystem of Peru on GitHub using the REST API, GPT-4, and Streamlit.
 
 ## 1. Project Title and Description
 
 **GitHub Peru Analytics** analyzes public GitHub repositories and developers associated with Peru, classifies each repository into one of 21 ISIC (CIIU) industry categories using GPT-4 function-calling, computes user-level and ecosystem-level metrics, and presents all results through an interactive 5-page Streamlit dashboard.
+
+Streamlit dashboard: https://peru-analytics.streamlit.app/ 
 
 The project includes two autonomous AI agents:
 - A **ClassificationAgent** that decides how deeply to inspect each repository before assigning an industry label.
